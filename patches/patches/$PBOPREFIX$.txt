@@ -1,0 +1,5 @@
+﻿///<'patches.pbo' properties via Mikero's dos tools, dll version 7.16>///
+prefix=patches
+//Pbo Type is: Arma Addon
+//Sha: '868DD3DD12BB51834FBEEFF6268F02021DD4AF37'
+//////</properties>//////
